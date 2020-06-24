@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThemeChanger</string>
+    <string name="welcome_message">Light Theme: Learning App Themes in Android</string>
+</resources>
